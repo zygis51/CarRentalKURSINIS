@@ -1,0 +1,9 @@
+tipas,marke,numeris,metai,durys,vietos,is_nuomota
+automobilis,Toyota,ABC123,2020,4.0,,Taip
+mikroautobusas,Ford,XYZ456,2018,,8.0,Ne
+automobilis,Volkswagen,DEF789,2021,5.0,,Ne
+automobilis,BMW,GHI012,2019,2.0,,Taip
+mikroautobusas,Mercedes,JKL345,2020,,12.0,Taip
+automobilis,Audi,MNO678,2022,4.0,,Ne
+mikroautobusas,Peugeot,PQR901,2019,,10.0,Ne
+automobilis,Hyundai,STU234,2021,5.0,,Taip
